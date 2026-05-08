@@ -17,6 +17,7 @@ Collection — базовый интерфейс для работы с груп
 &nbsp;&nbsp;&nbsp;&nbsp;Iterator — объект для последовательного обхода элементов коллекции
 Содержание заданий
 
+
 1 Анализ частоты слов (TopWords)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Программа считывает текстовый файл и формирует рейтинг топ-10 самых популярных слов.
@@ -24,6 +25,7 @@ Collection — базовый интерфейс для работы с груп
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Использована коллекция Map<String, Integer> для хранения частоты слов.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Реализована сортировка элементов Map через список и кастомный Comparator.
+
 
 2 Обобщенный стек (Stack)
 
@@ -34,6 +36,7 @@ Collection — базовый интерфейс для работы с груп
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Метод pop удаляет и возвращает верхний элемент.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Метод peek возвращает верхний элемент без удаления.
+
 
 3 Система учета продаж (Вариант 4)
 
